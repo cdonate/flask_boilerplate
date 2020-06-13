@@ -1,0 +1,17 @@
+Flask
+Flask-Migrate
+Flask-RESTful
+Flask-SQLAlchemy
+Flask-Script
+sqlalchemy-utils
+alembic
+
+psycopg2-binary
+psycopg2
+
+PyJWT
+
+celery
+
+gunicorn
+python-dotenv

@@ -1,0 +1,4 @@
+nose
+mock
+ipdb
+coveralls
